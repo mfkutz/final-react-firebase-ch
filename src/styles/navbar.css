@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 12rem;
+    background: hsl(218, 28%, 13%);
+}
+a,
+li {
+    display: inline-block;
+    position: relative;
+    color: white;
+    text-decoration: none;
+}
+.ul-nav {
+    display: flex;
+    gap: 30px;
+}
+.logo {
+    max-width: 150px;
+}

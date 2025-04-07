@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+
+
+  /* este puede ser el motivo por el cual sweet alert funciona mal los colores */
+  background: hsl(218, 28%, 13%)
+}
+
+span {
+  color: white;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+

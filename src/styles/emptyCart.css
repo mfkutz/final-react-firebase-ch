@@ -1,0 +1,10 @@
+.empty-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+}
+.container-button{
+    padding-top: 3rem;
+}

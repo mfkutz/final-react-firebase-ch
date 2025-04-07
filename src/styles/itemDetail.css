@@ -1,0 +1,32 @@
+.container {
+    color: white;
+    background-color: rgb(49, 49, 49);
+    padding: 2rem;
+    border-radius: 12px;
+}
+.back {
+    background-color: red;
+    padding: 5px 10px;
+}
+.numberOfProducts {
+    font-size: 20px;
+}
+.container-detail {
+    padding: 0 12px;
+}
+.continue-shop {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem 0;
+}
+.finish-buying {
+    background-color: rgb(67, 238, 138);
+    padding: 1rem 2rem;
+    color: black;   
+}
+.keep-buying {
+    background-color: #737874;
+    padding: 1rem 2rem;
+    color: white;
+}

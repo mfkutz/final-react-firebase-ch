@@ -1,0 +1,41 @@
+.num{
+    color: white;
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+    font-size: 21px;
+}
+.btn-inc{
+    background-color: rgb(67, 238, 138);
+    cursor: pointer;
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-dec{
+    background-color: #fffb78;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+.addToCart{
+    background-color: gray;
+    color: white;
+    font-size: 16px;
+    padding: 5px 13px;
+    cursor: pointer;
+    border: none;
+    margin-top: 12px;
+}
+.count-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;   
+}
